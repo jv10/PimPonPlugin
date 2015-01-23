@@ -12,8 +12,5 @@
             "homepage": "",
             "role": "Developer"
         }
-    ],
-    "require": {
-        "pimcore/pimcore": "dev-master"
-    }
+    ]
 }
